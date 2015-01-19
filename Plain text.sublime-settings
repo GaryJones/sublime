@@ -1,0 +1,8 @@
+{
+	"font_size": 32,
+	"rulers":
+	[
+		50, // Commit first line
+		72  // Commit subsequent lines
+	],
+}

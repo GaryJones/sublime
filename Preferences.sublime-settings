@@ -62,8 +62,6 @@
 	"line_padding_top": 1,
 	"rulers":
 	[
-		50, // Commit first line
-		72, // Commit subsequent lines
 		80, // Ideal code-wrapping
 		120 // Definite code-wrapping
 	],
