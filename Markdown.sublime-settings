@@ -1,0 +1,13 @@
+{
+  "color_scheme": "Packages/MarkdownEditing/MarkdownEditor-Dark.tmTheme",
+  "extensions": [
+  	"md",
+  	"markdown",
+  	"mdown",
+  	"mdwn",
+  	"mmd",
+  	"txt",
+  ],
+  "rulers": "",
+  "trim_trailing_white_space_on_save": false
+}

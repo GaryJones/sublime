@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+# Change Log for ${1:Foobar}
+
+## [Unreleased]
+* No changes.
+
+## 1.0.0 - ${2:2015-00-00}
+* First public release.
+
+[Unreleased]: https://github.com/GaryJones/${3:PROJECT-SLUG}/compare/1.0.0...HEAD
+[1.0.1]: https://github.com/GaryJones/${3:PROJECT-SLUG}/compare/1.0.0...1.0.1
+
+]]></content>
+	<tabTrigger>changelog</tabTrigger>
+	<scope>text.plain</scope>
+</snippet>

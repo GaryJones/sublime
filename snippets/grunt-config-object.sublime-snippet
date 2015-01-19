@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+// ${1:https://github.com/}
+module.exports = {
+	options: {
+		$0
+	},
+	${2:target}: {
+
+	}
+};
+
+]]></content>
+	<description>Grunt config object</description>
+	<tabTrigger>mod</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

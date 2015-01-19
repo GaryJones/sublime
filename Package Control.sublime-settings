@@ -1,0 +1,58 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_dependencies":
+	[
+		"0_package_control_loader",
+		"bz2"
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"AutoFileName",
+		"BracketHighlighter",
+		"CSS3",
+		"CSScomb",
+		"DocBlockr",
+		"Emmet",
+		"Emmet Css Snippets",
+		"FileDiffs",
+		"Genesis",
+		"GitGutter",
+		"Google Spell Check",
+		"JavaScript Snippets",
+		"JavaScriptNext - ES6 Syntax",
+		"jQuery Snippets pack",
+		"LESS",
+		"List stylesheet variables",
+		"LiveReload",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"MarkdownTOC",
+		"Origami",
+		"Package Control",
+		"PackageResourceViewer",
+		"ScopeAlways",
+		"SCSS",
+		"Seti_UI",
+		"SFTP",
+		"SmartMarkdown",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-contrib-scss-lint",
+		"SublimeLinter-csslint",
+		"SublimeLinter-html-tidy",
+		"SublimeLinter-jscs",
+		"SublimeLinter-jshint",
+		"SublimeLinter-php",
+		"Theme - amCoder",
+		"Theme - Glacier",
+		"Theme - Soda",
+		"Theme - Soda SolarizedDark",
+		"Tomorrow Color Schemes",
+		"WordCount",
+		"WordPress",
+		"Xdebug Client"
+	]
+}

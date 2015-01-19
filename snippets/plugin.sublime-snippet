@@ -1,0 +1,41 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * ${1:Plugin Name}
+ *
+ * @package   ${2:PluginName}
+ * @author    ${3:Gary Jones}
+ * @link      ${5:http://gamajo.com/}
+ * @copyright 2014 ${6:Gary Jones, Gamajo Tech}
+ * @license   GPL-2.0+
+ *
+ * @wordpress-plugin
+ * Plugin Name: ${1:Plugin Name}
+ * Plugin URI:  ${5:http://github.com/GaryJones/}
+ * Description: ${7:TODO}
+ * Version:     1.0.0
+ * Author:      ${3:Gary Jones, Gamajo Tech}
+ * Author URI:  ${5:http://gamajo.com/}
+ * Text Domain: ${8:plugin-name}
+ * Domain Path: /lang
+ * License:     GPL-2.0+
+ * License URI: http://www.gnu.org/licenses/gpl-2.0.txt
+ */
+
+// If this file is called directly, abort.
+if ( ! defined( 'WPINC' ) ) {
+	die;
+}
+
+require_once plugin_dir_path( __FILE__ ) . 'class-${8:plugin-name}.php';
+
+// Register hooks that are fired when the plugin is activated, deactivated, and uninstalled, respectively.
+register_activation_hook( __FILE__, array( '${2:PluginName}', 'activate' ) );
+register_deactivation_hook( __FILE__, array( '${2:PluginName}', 'deactivate' ) );
+
+${2:PluginName}::get_instance();
+]]></content>
+	<description>WP plugin main file</description>
+	<tabTrigger>plugin</tabTrigger>
+	<scope>source.php.embedded.block.html</scope>
+</snippet>

@@ -1,0 +1,20 @@
+<snippet>
+	<content><![CDATA[
+// ${1:https://github.com/}
+module.exports = function( grunt ) {
+	'use strict';
+	return {
+		options: {
+			$0
+		},
+		${2:target}: {
+
+		}
+	};
+};
+
+]]></content>
+	<description>Grunt config function</description>
+	<tabTrigger>modf</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

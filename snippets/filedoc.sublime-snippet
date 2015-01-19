@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * ${1:Summary of file contents (no period)}
+ *
+ * @package   ${2:Package_Name}
+ * @author    Gary Jones
+ * @link      http://gamajo.com
+ * @copyright 2015 Gary Jones, Gamajo Tech
+ * @license   GPL-2.0+
+ */
+
+ ${0}
+]]></content>
+	<tabTrigger>filedoc</tabTrigger>
+	<scope>source.php</scope>
+</snippet>

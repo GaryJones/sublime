@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+__( '${1:text}'${2:, '${3:domain}'} );
+]]></content>
+	<description>__() when not inside string</description>
+	<tabTrigger>__</tabTrigger>
+	<scope>source.php.embedded.block.html -string, source.php.embedded.line.html -string</scope>
+</snippet>

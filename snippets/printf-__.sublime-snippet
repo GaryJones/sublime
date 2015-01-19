@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<?php printf( __( '${1:text}', '${2:domain}' ) ); ?>
+]]></content>
+	<description>Break into PHP to add printf( __() )</description>
+	<tabTrigger>__</tabTrigger>
+	<scope>meta.tag.inline.any.html string.quoted</scope>
+</snippet>

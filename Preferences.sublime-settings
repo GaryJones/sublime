@@ -1,0 +1,78 @@
+{
+	"auto_complete_commit_on_tab": true,
+	"auto_complete_delay": 0,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/Monokai (SL).tmTheme",
+	"default_line_ending": "unix",
+	"dictionary": "Packages/Language - English/en_GB.dic",
+	"enable_telemetry": false,
+	"folder_exclude_patterns":
+	[
+		".git",
+		".sass-cache",
+		".svn",
+		"bower_components",
+		"node_modules"
+	],
+	"font_face": "Source Code Pro",
+	"font_size": 24,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Groovy",
+		"Ruby",
+		"RestructuredText",
+		"Objective-C",
+		"Go",
+		"Java",
+		"ActionScript",
+		"D",
+		"Textile",
+		"Composer",
+		"Erlang",
+		"Pascal",
+		"Batch File",
+		"Scala",
+		"TCL",
+		"Lisp",
+		"C++",
+		"Emmet Css Snippets",
+		"Haskell",
+		"Lua",
+		"Clojure",
+		"Graphviz",
+		"Markdown",
+		"C#",
+		"Rails",
+		"Matlab",
+		"ASP",
+		"Perl",
+		"OCaml",
+		"Vintage",
+		"R",
+		"AppleScript"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"rulers":
+	[
+		50,
+		72,
+		80,
+		100,
+		120
+	],
+	"show_encoding": true,
+	"show_full_path": true,
+	"show_line_endings": true,
+	"show_tab_close_buttons": false,
+	"soda_classic_tabs": false,
+	"theme": "Seti.sublime-theme",
+	"trim_trailing_white_space_on_save": true
+}

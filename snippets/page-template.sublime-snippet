@@ -1,0 +1,20 @@
+<snippet>
+	<content><![CDATA[
+<?php
+/**
+ * ${1:My Theme}
+ *
+ * @package ${2:MyTheme}
+ * @author  Gary Jones, Gamajo Tech
+ * @license GPL-2.0+
+ */
+
+//* Template Name: ${3:Foobar}
+
+$0
+
+]]></content>
+	<description>Add theme page template</description>
+	<tabTrigger>template</tabTrigger>
+	<scope>source.php, text.plain</scope>
+</snippet>
